@@ -28,10 +28,13 @@ Objetivo General
 
 7-1 La red en serie-paralelo
 
-Para las redes de la figura 7-46, determine cuáles resistores y ramas están en serie y cuáles en paralelo. Escriba una expresión para la resistencia total, RT.
+3.-Para las redes de la figura 7-46, determine cuáles resistores y ramas están en serie y cuáles en paralelo. Escriba una expresión para la resistencia total, RT.
+
+
 
 ![](https://github.com/mjvilla1/ImagenesTarea4/blob/main/Ejercicio%207-1.PNG)
 
+Escriba una expresión para RT1 y RT2 para las redes de la figura 7-48
 15. Vea los circuitos de la figura 7-58:
 
 a. Encuentre las corrientes indicada
