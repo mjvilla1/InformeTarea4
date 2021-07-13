@@ -20,7 +20,7 @@ Objetivo General
 
 # 2. Marco Teórico
 
-
+![](https://github.com/mjvilla1/ImagenesTarea4/blob/main/Marco%20Teorico%207.PNG)
 
 # 3. Explicación y Resolución
 
