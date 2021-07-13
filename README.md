@@ -32,50 +32,20 @@ Para las redes de la figura 7-46, determine cuáles resistores y ramas están en
 
 ![](https://github.com/mjvilla1/ImagenesTarea4/blob/main/Ejercicio%207-1.PNG)
 
-33. En el circuito de la figura 7-72 calcule el voltaje de salida Vsal cuando RL=0 Ω, 250 Ω y 500 Ω
+15. Vea los circuitos de la figura 7-58:
 
-35. Un voltímetro con una sensibilidad de S =20 kΩ/V se usa en la escala de 10 V (con una resistencia interna total de 200 kΩ) para medir el voltaje en el resistor de 750 kΩ de la figura 7-74. El medidor indica un voltaje de 5.00 V.
+a. Encuentre las corrientes indicada
+b. Encuentre el voltaje Vab.
+c. Verifique que la potencia suministrada al circuito es igual a la suma de las
+potencias disipadas por los resistores.
 
-a. Determine el valor de la fuente de voltaje E.
+31. Vea el circuito de la figura 7-71:
+a. Determine el intervalo del voltaje de salida (del mínimo al máximo) que se
+espera cuando el potenciómetro se ajusta del mínimo al máximo.
+b. Calcule R2 cuando Vsal 20 V.
 
-b. ¿Qué voltaje se presentará en el resistor de 750 kΩ cuando el voltímetro se quite del circuito?
-
-c. Calcule el efecto de carga del medidor cuando se utilice como se muestra. 
-
-d. Si se usa el mismo voltímetro para medir el voltaje en el resistor de 200 kΩ, ¿cuál será la lectura?
-
-37. Un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76. 
-
-a. Explique cómo conectar de manera correcta el amperímetro para medir la corriente I1.
-
-b. Determine los valores indicados cuando el amperímetro se usa para medir cada una de las corrientes que se indican en el circuito.
-
-c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corrientes
-
-3.1.2 CAPITULO 8
-
-
-
-39. Convierta cada una de las redes de la figura 8-92 en su configuración Y equivalente
-
-41. Convierta cada una de las redes Y de la figura 8-94 en su configuración equivalente.
-
-43. Utilice las conversiones Δ-Y o Y-Δ, para encontrar la corriente I para el circuito de la figura 8-96.
-
-45. Repita el problema 43 para el circuito de la figura 8-98.
-
-47. Vea el circuito puente de la figura 8-100:
-
-a. ¿El puente está balanceado? Explique.
-
-b. Escriba las ecuaciones de malla.
-
-c. Calcule la corriente a través de R5.
-
-d. Determine el voltaje en R5
-
-49. En el circuito puente de la figura 8-102 encuentre la corriente a través de cada
-resistor. 
+![](https://github.com/mjvilla1/ImagenesTarea4/blob/main/Ejercicio%2031.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea4/blob/main/EJercicio%2031.2.PNG)
 
 # 4. Video
 
