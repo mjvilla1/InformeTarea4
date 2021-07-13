@@ -65,6 +65,8 @@ a. Determine la corriente I2.
 
 b. Encuentre el voltaje Vab.
 
+![](https://github.com/mjvilla1/ImagenesTarea4/blob/main/Ejercicio%2018_8.PNG)
+
 # 4. Video
 
 
