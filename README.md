@@ -60,7 +60,7 @@ c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corri
 
 41. Convierta cada una de las redes Y de la figura 8-94 en su configuración equivalente.
 
-43. Utilice las conversiones Δ-Y o Y-Δ, para encontrar la corriente I para el circuito de la figura 8-9
+43. Utilice las conversiones Δ-Y o Y-Δ, para encontrar la corriente I para el circuito de la figura 8-96.
 
 45. Repita el problema 43 para el circuito de la figura 8-98.
 
