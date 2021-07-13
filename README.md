@@ -24,6 +24,14 @@ Objetivo General
 
 # 3. Explicación y Resolución
 
+3.1. CAPITULO 7
+
+7-1 La red en serie-paralelo
+
+Para las redes de la figura 7-46, determine cuáles resistores y ramas están en serie y cuáles en paralelo. Escriba una expresión para la resistencia total, RT.
+
+![](https://github.com/mjvilla1/ImagenesTarea4/blob/main/Ejercicio%207-1.PNG)
+
 # 4. Video
 
 
