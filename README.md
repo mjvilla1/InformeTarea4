@@ -87,7 +87,7 @@ c. Determine el voltaje Vab
 
 # 4. Video
 
-https://youtu.be/jEQg9bDogQw
+- https://youtu.be/jEQg9bDogQw
 
 # 5. Conclusiones
 
