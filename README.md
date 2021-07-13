@@ -56,6 +56,15 @@ b. Calcule R2 cuando Vsal 20 V.
 ![](https://github.com/mjvilla1/ImagenesTarea4/blob/main/Ejercicio%2031.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea4/blob/main/EJercicio%2031.2.PNG)
 
+Capitulo 8
+
+18. Para el circuito de la figura 8-78 convierta la fuente de voltaje y los resistores
+en serie en una fuente de corriente equivalente.
+
+a. Determine la corriente I2.
+
+b. Encuentre el voltaje Vab.
+
 # 4. Video
 
 
