@@ -41,6 +41,8 @@ b. Encuentre el voltaje Vab.
 c. Verifique que la potencia suministrada al circuito es igual a la suma de las
 potencias disipadas por los resistores.
 
+![](https://github.com/mjvilla1/ImagenesTarea4/blob/main/Ejercicio%2015_7.PNG)
+
 31. Vea el circuito de la figura 7-71:
 a. Determine el intervalo del voltaje de salida (del mínimo al máximo) que se
 espera cuando el potenciómetro se ajusta del mínimo al máximo.
