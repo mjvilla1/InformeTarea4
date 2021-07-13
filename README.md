@@ -35,7 +35,9 @@ Para las redes de la figura 7-46, determine cuáles resistores y ramas están en
 15. Vea los circuitos de la figura 7-58:
 
 a. Encuentre las corrientes indicada
+
 b. Encuentre el voltaje Vab.
+
 c. Verifique que la potencia suministrada al circuito es igual a la suma de las
 potencias disipadas por los resistores.
 
