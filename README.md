@@ -67,6 +67,14 @@ b. Encuentre el voltaje Vab.
 
 ![](https://github.com/mjvilla1/ImagenesTarea4/blob/main/Ejercicio%2018_8.PNG)
 
+20. Vea el circuito de la figura 8-80:
+
+a. Encuentre la corriente I1, use el análisis de corriente de rama.
+
+b. Encuentre el voltaje Vab.
+
+![](https://github.com/mjvilla1/ImagenesTarea4/blob/main/Ejercicio%2020.8.PNG)
+
 # 4. Video
 
 
