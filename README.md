@@ -7,7 +7,7 @@ Integrantes : César Garnica - Jonathan Insuasti - Melany Villa
 
 Objetivo General 
 
-  Analizar e identificar los tipos de circuitos y sus formas de utilizar los metodos adecuados al momento de realizar la resolución de circuitos serie o circuitos paralelo mediantes el analisis correspondiente a estudiar en estos capitulos aplicar el conocimiento adquirido en los capitulos 5 y 6 que nos serviran de guía para futuros métodos de resolución de circuitos.
+  Analizar e identificar los tipos de circuitos y sus formas de utilizar los metodos adecuados al momento de realizar la resolución de circuitos serie o circuitos paralelo y a su vez los circuitos serie-paralelo mediantes el analisis correspondiente a estudiar en estos capitulos aplicar el conocimiento adquirido en los capitulos 7 y 8 que nos serviran de guía para futuros métodos de resolución de circuitos.
 
   
     Objetivos Específicos
